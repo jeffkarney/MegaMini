@@ -1,1 +1,1 @@
-JK Devices MegaMini2560 files.
+JK Devices MegaMini2560 files. BRD and SCH files were created in Eagle CAD and require version 6 or greater to be opened.
